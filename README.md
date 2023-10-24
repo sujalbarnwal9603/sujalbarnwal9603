@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujalbarnwal9603
+- 👋 Hi, I’m Sujal Barnwal
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ... HTML/CSS/C
 - 💞️ I’m looking to collaborate on ...
