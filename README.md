@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sujal Barnwal
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... HTML/CSS/C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... JavaScript, Data Structures and Alorithms
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ... 8250072650/sujalbarnwal9603@gmail.com
 
 <!---
