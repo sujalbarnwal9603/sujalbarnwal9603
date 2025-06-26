@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Sujal Barnwal
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... React, Data Structures and Alorithms
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ... 8250072650/sujalbarnwal9603@gmail.com
+# 👋 Hi, I’m Sujal Barnwal
 
-<!---
-sujalbarnwal9603/sujalbarnwal9603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about **Web Development** and **Competitive Programming**
+- 🌱 Currently learning: **React.js**, **Tailwind CSS**, **FastAPI**, **MongoDB**, and mastering **Data Structures & Algorithms**
+- 💻 Proficient in: **JavaScript**, **C/C++**, **Python**, **HTML/CSS**, **Git & GitHub**
+- 💪 Actively exploring: **Data Structures & Algorithms**, and **Backend Development**
+- 💞️ Open to collaborating on full-stack projects, DSA repositories, or hackathons
+- 📫 Reach me at: **sujalbarnwal9603@gmail.com** / **+91 8250072650**
